@@ -1,0 +1,6 @@
+﻿So Enabled Facebook authentication
+Then it asked for an email to regiter with.
+
+What I need to understand is how to link that to a new user in CMR
+for the dashboard initially I can set up the account manually in CRM
+but how to link the two so that login is always through Facebook Auth
